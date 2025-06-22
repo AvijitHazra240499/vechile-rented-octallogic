@@ -47,6 +47,15 @@ A full-stack vehicle rental application built with React, TypeScript, Node.js, a
    npx prisma migrate reset
    ```
 
+### API Documentation with Swagger
+
+This project includes Swagger UI for API documentation. After starting the backend server, you can access the API documentation at:
+
+```
+http://localhost:5000/api-docs
+```
+
+
 ### Running the Backend
 
 ```bash
